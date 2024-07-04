@@ -1,2 +1,2 @@
 # shtml
-rendering THML in chezscheme
+rendering HTML in chezscheme
